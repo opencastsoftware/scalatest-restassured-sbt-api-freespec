@@ -1,0 +1,18 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(api.Requests, org.scalatest.tools.Framework$$anon$1@28a64fbd, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mRequests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m*Feature* - Creating and getting single user request [success = 201 and 200][0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- POST - Creating user[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- GET - Getting single user by ID[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(api.RequestsCopy, org.scalatest.tools.Framework$$anon$1@28a64fbd, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mRequestsCopy:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m*Feature* - Creating and getting single user request [success = 201 and 200][0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- POST - Creating user[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- GET - Getting single user by ID[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 3 seconds, 987 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 2, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 4, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	api.RequestsCopy[0m
+[0m[[0m[0mdebug[0m] [0m[0m	api.Requests[0m

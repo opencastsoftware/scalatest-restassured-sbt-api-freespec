@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/kiranhaleyur/phase5rpo/WorkTest/src/test/scala/api/Requests.scala:38:49: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : String[0m
+[0m[[0m[31merror[0m] [0m[0m required: com.fasterxml.jackson.annotation.ObjectIdGenerators.None[0m
+[0m[[0m[31merror[0m] [0m[0m          createdAt = sut.jsonPath().get[String]("date"))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

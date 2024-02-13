@@ -1,0 +1,37 @@
+[error] /Users/kiranhaleyur/phase5rpo/WorkTest/project/AppDependencies.scala:6:21: value %% is not a member of String
+[error]     "org.scalatest" %% "scalatest" % "3.2.15",
+[error]                     ^
+[error] /Users/kiranhaleyur/phase5rpo/WorkTest/project/AppDependencies.scala:7:23: value % is not a member of String
+[error]     "io.rest-assured" % "rest-assured" % "5.3.0",
+[error]                       ^
+[error] /Users/kiranhaleyur/phase5rpo/WorkTest/project/AppDependencies.scala:8:21: value %% is not a member of String
+[error]     "org.typelevel" %% "cats-core" % "2.9.0",
+[error]                     ^
+[error] /Users/kiranhaleyur/phase5rpo/WorkTest/project/AppDependencies.scala:9:28: value % is not a member of String
+[error]     "com.vladsch.flexmark" % "flexmark-all" % "0.62.2", // later versions require Java 11, we're currently on Java 8
+[error]                            ^
+[error] /Users/kiranhaleyur/phase5rpo/WorkTest/project/AppDependencies.scala:10:22: value %% is not a member of String
+[error]     "org.scalacheck" %% "scalacheck" % "1.17.0",
+[error]                      ^
+[error] /Users/kiranhaleyur/phase5rpo/WorkTest/project/AppDependencies.scala:11:36: value %% is not a member of String
+[error]     "com.fasterxml.jackson.module" %% "jackson-module-scala" % "2.14.2",
+[error]                                    ^
+[error] /Users/kiranhaleyur/phase5rpo/WorkTest/project/AppDependencies.scala:12:25: value %% is not a member of String
+[error]     "com.typesafe.play" %% "play-json" % "2.9.4",
+[error]                         ^
+[error] /Users/kiranhaleyur/phase5rpo/WorkTest/project/AppDependencies.scala:16:21: value %% is not a member of String
+[error]     "org.typelevel" %% "cats-effect" % "3.4.10",
+[error]                     ^
+[error] /Users/kiranhaleyur/phase5rpo/WorkTest/project/AppDependencies.scala:17:14: value %% is not a member of String
+[error]     "co.fs2" %% "fs2-core" % "3.6.1",
+[error]              ^
+[error] /Users/kiranhaleyur/phase5rpo/WorkTest/project/AppDependencies.scala:18:14: value %% is not a member of String
+[error]     "co.fs2" %% "fs2-io" % "3.6.1",
+[error]              ^
+[error] /Users/kiranhaleyur/phase5rpo/WorkTest/project/AppDependencies.scala:19:17: value %% is not a member of String
+[error]     "org.gnieh" %% "fs2-data-xml" % "1.7.0",
+[error]                 ^
+[error] /Users/kiranhaleyur/phase5rpo/WorkTest/project/AppDependencies.scala:20:17: value %% is not a member of String
+[error]     "org.gnieh" %% "fs2-data-json" % "1.7.1"
+[error]                 ^
+[error] 12 errors found
